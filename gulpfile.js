@@ -100,7 +100,7 @@ gulp.task('js-min', ['js'], function () {
 /////////////////////////////////////////////
 // Before Deployment to Production (and possibly staging)
 
-gulp.task('pro', ['img-cmp', 'html-repath'])
+gulp.task('stage', ['img-cmp', 'html-repath'])
 
 // Relocates images
 gulp.task('img-cmp', function () {
