@@ -24,6 +24,14 @@ output {
 .navbar-right {
   margin-top: 0px !important;
 }
+.browser-content {
+  height: 550px;
+  overflow: hidden;
+  position: relative;
+  background-image: url("../docs/assets/img/load-speed.gif");
+  background-position: top center;
+  background-size: cover;
+}
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
   font-family: sans-serif;
