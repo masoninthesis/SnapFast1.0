@@ -3,6 +3,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
 <<<<<<< HEAD
+<<<<<<< HEAD
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="37 -3.2 112.2 45.2"
 	 style="enable-background:new 37 -3.2 112.2 45.2;" xml:space="preserve">
 <style type="text/css">
@@ -44,6 +45,8 @@
 		S41.5,12.4,41.5,11.9z"/>
 </g>
 =======
+=======
+>>>>>>> parent of e7b116e... updated content, logos, and prices
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="60 -9 157 57"
 	 style="enable-background:new 60 -9 157 57;" xml:space="preserve">
 <style type="text/css">
@@ -58,5 +61,8 @@
 <text transform="matrix(1 0 0 1 78.4501 36.097)" class="st0 st1 st2">250</text>
 <text transform="matrix(1 0 0 1 168.0935 35.5999)"><tspan x="0" y="0" class="st0 st1 st3">/</tspan><tspan x="7.4" y="0" class="st0 st1 st3 st4">MO</tspan></text>
 <text transform="matrix(1 0 0 1 60.9428 18.1573)" class="st0 st1 st3">$</text>
+<<<<<<< HEAD
+>>>>>>> parent of e7b116e... updated content, logos, and prices
+=======
 >>>>>>> parent of e7b116e... updated content, logos, and prices
 </svg>
