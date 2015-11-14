@@ -22,7 +22,7 @@ output {
   color: #2595FF;
 }
 .navbar-right {
-  margin-top: 0px !important;
+  margin-top: -8px !important;
 }
 .browser-content {
   height: 550px;
