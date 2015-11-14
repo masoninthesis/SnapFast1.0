@@ -2,6 +2,7 @@
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+<<<<<<< HEAD
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="37 -3.2 112.2 45.2"
 	 style="enable-background:new 37 -3.2 112.2 45.2;" xml:space="preserve">
 <style type="text/css">
@@ -42,4 +43,20 @@
 		c-0.7-0.1-1.3-0.3-1.7-0.8c-0.4-0.5-0.6-1.1-0.6-1.8h1.1c0,0.5,0.1,1,0.4,1.3c0.3,0.3,0.7,0.4,1.2,0.4c0.5,0,0.9-0.1,1.2-0.4
 		S41.5,12.4,41.5,11.9z"/>
 </g>
+=======
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="60 -9 167 57"
+	 style="enable-background:new 60 -9 167 57;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2D3238;}
+	.st1{font-family:'ProximaNova-Light';}
+	.st2{font-size:50.4258px;}
+	.st3{font-size:26.2639px;}
+</style>
+<title>howd</title>
+<desc>Created with Sketch Beta.</desc>
+<text transform="matrix(1 0 0 1 77.5072 35.597)" class="st0 st1 st2">1499</text>
+<text transform="matrix(1 0 0 1 177.1506 35.0999)" class="st0 st1 st3">/</text>
+<text transform="matrix(1 0 0 1 184.5506 35.0999)" class="st0 st1 st3">MO</text>
+<text transform="matrix(1 0 0 1 59.9999 17.6573)" class="st0 st1 st3">$</text>
+>>>>>>> parent of e7b116e... updated content, logos, and prices
 </svg>
